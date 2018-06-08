@@ -131,6 +131,7 @@ Orbit Theme Templates and Themes are based on the [Bootstrap](http://getbootstra
 * [jQuery](http://jquery.com/)
 * [Bootstrap](http://getbootstrap.com/)
 * [SASS](https://sass-lang.com/)
+* [Pexels](https://www.pexels.com/)
 
 ## Copyright and License
 
