@@ -14,9 +14,9 @@
 [![GitHub package version](https://img.shields.io/github/package-json/v/badges/shields.svg)](https://github.com/orbitthemes/loca)
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/orbitthemes/loca/master/LICENSE)
 [![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/loca-template)
-[![Build Status](https://travis-ci.org/orbitthemes/loca.svg?branch=master)](https://travis-ci.org/orbitthemes/loca)
-[![dependencies Status](https://david-dm.org/orbitthemes/loca/status.svg)](https://david-dm.org/orbitthemes/loca)
-[![devDependencies Status](https://david-dm.org/orbitthemes/loca/dev-status.svg)](https://david-dm.org/orbitthemes/loca?type=dev)
+[![Build Status](https://travis-ci.org/orbitthemes/loca.svg?branch=master)](https://travis-ci.org/orbitthemes/Loca)
+[![dependencies Status](https://david-dm.org/orbitthemes/loca/status.svg)](https://david-dm.org/orbitthemes/Loca)
+[![devDependencies Status](https://david-dm.org/orbitthemes/loca/dev-status.svg)](https://david-dm.org/orbitthemes/Loca?type=dev)
 
 ## Features
 
